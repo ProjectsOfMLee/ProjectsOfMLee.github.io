@@ -1,6 +1,5 @@
 {
-  "homepage": "https://ProjectsOfMLee.github.io/ProjectsOfMLee.github.io"
-  "name": "ProjectsOfMLee.github.io",
+  "name": "portfolio",
   "version": "2.1.0",
   "private": true,
   "license": "Apache License 2.0",
@@ -24,7 +23,6 @@
     "vue-router": "^4.0.13"
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0",
     "@vitejs/plugin-vue": "^2.2.0",
     "critters": "^0.0.16",
     "eslint": "^7.31.0",
@@ -44,7 +42,7 @@
     "stylelint-config-standard": "^22.0.0",
     "unplugin-auto-import": "^0.6.1",
     "unplugin-vue-components": "^0.17.21",
-    "vite": "^2.9.15",
+    "vite": "^2.8.0",
     "vite-plugin-md": "^0.11.8",
     "vite-plugin-pages": "^0.21.2",
     "vite-plugin-pwa": "^0.11.13",
