@@ -1,0 +1,49 @@
+{
+  "aircnc": {
+    "order": 1,
+    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/portfolio-d3c7c.appspot.com/o/posts_media%2Faircnc.png?alt=media&token=0e827724-c281-4196-b801-48c0194cdbf0",
+    "title": "Aircnc",
+    "tags": "Fullstack",
+    "demo": "https://aircnc-web.herokuapp.com/",
+    "github": "https://github.com/jeferson-sb/aircnc"
+  },
+  "chatme": {
+    "order": 2,
+    "thumbnail": "src/assets/img/me.png",
+    "title": "ABtesting Results Dashboard",
+    "tags": "Dash, Flask, Python",
+    "demo": "https://github.com/ProjectsOfMLee/Dynamic-Dashboard-Data-Visualization-Web-App",
+    "github": "https://github.com/ProjectsOfMLee/Dynamic-Dashboard-Data-Visualization-Web-App",
+    "pinned": true,
+    "description": "A lightweight web data visualization service"
+  },
+  "gobarber": {
+    "order": 3,
+    "thumbnail": "src/assets/img/me.png",
+    "title": "Cat Clinic",
+    "tags": "Spring, Java",
+    "github": "https://github.com/ProjectsOfMLee/Cat-Clinic",
+    "pinned": true,
+    "description": "A backend system to manage cat clinic appointments"
+  },
+  "dogAI": {
+    "order": 1,
+    "thumbnail": "src/assets/img/me.png",
+    "title": "Semantic Change Detection",
+    "tags": "Natural Language Processing, Pytorch, nltk, gensim",
+    "demo": "https://github.com/ProjectsOfMLee/Semantic-Change-Detection",
+    "github": "https://github.com/ProjectsOfMLee/Semantic-Change-Detection",
+    "pinned": true,
+    "description": "Domain-specific text mining NLP pipeline"
+  },
+  "bethehero": {
+    "order": 4,
+    "thumbnail": "src/assets/img/me.png",
+    "title": "To Be Continued ...",
+    "tags": "More Tech Stacks To Come ...",
+    "demo": "https://github.com/ProjectsOfMLee/",
+    "github": "https://github.com/ProjectsOfMLee/",
+    "pinned": true,
+    "description": "Keeping up with current technologies & SOTA models"
+  }
+}
