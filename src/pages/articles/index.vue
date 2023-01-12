@@ -4,7 +4,7 @@
       <div class="container">
         <h1 class="hero__headline">Articles</h1>
         <p class="hero__description">
-          Here are some of my articles on tech, production, school, research, and life.
+          Here are some of the articles I found helpful when I developed this website.
           Hope you enjoy reading them :)
         </p>
       </div>
